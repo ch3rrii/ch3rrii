@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ch3rrii
 - 👀 I’m interested in Art, AI, and Architecture design
-- 🌱 I’m currently re-learning Python
+- 🌱 I’m currently improving my AI skills
 - 💞️ I’m looking to collaborate on simple projects, will update once I feel comfortable in my sklls :)!
 - 📫 How to reach me cherriitheartist@gmail.com
 - ⚡ Fun fact: I have the cutest cat
